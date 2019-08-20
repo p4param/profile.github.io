@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/profile.github.io/static/css/main.2cce8147.chunk.css",
+    "main.js": "/profile.github.io/static/js/main.95ddd222.chunk.js",
+    "main.js.map": "/profile.github.io/static/js/main.95ddd222.chunk.js.map",
+    "runtime~main.js": "/profile.github.io/static/js/runtime~main.cbf80e5a.js",
+    "runtime~main.js.map": "/profile.github.io/static/js/runtime~main.cbf80e5a.js.map",
+    "static/js/2.3e27c3bc.chunk.js": "/profile.github.io/static/js/2.3e27c3bc.chunk.js",
+    "static/js/2.3e27c3bc.chunk.js.map": "/profile.github.io/static/js/2.3e27c3bc.chunk.js.map",
+    "index.html": "/profile.github.io/index.html",
+    "precache-manifest.904451f966427dd3bc87c73d9d416027.js": "/profile.github.io/precache-manifest.904451f966427dd3bc87c73d9d416027.js",
+    "service-worker.js": "/profile.github.io/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/profile.github.io/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/profile.github.io/static/media/logo.5d5d9eef.svg"
+  }
+}
